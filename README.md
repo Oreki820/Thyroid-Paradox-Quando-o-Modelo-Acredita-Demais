@@ -143,3 +143,11 @@ demonstrando não só capacidade técnica, mas **maturidade crítica** no uso de
 > Este é o verdadeiro paradoxo da inteligência artificial médica.
 >
 > **Thyroid Paradox — Quando o Modelo Acredita Demais.**
+> 
+
+---
+
+observação final:
+
+sei que hávia como melhorar o resuktado e concertar o problema utilizando osutros meios, porém optei por manter assim esse projeto, pra mim deixar como lembrança o que eu aprendi, jamais entregaria um trabalho real desta forma. apenas estou deixando assim por se tratar de projetos de aprendizagem, quero deixar pra mim e outros cientistas de dados nunca esquecerem que mesmo o modelo com as mehores métricas nem sempre está certo.
+
